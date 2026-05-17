@@ -1,5 +1,5 @@
 # 💫 About Me:
-> Software Developer Intern at FundEnable, working on backend systems involving AWS Lambda, event-driven workflows, payment integrations, and scalable REST APIs. Experienced with Node.js, Python, FastAPI, Docker, AWS SNS/SQS, and system design for real-time applications.<br>> Open Source Contributor at GirlScript Summer of Code, contributing to real-world repositories and collaborating on backend-focused development.<br>> Built projects ranging from real-time geospatial tracking platforms to AI-powered applications, with strong interest in scalable backend architecture, cloud infrastructure, and performance-oriented systems engineering. <br>
+> Software Developer Intern at FundEnable with experience building scalable backend systems and real-time applications using Node.js, Python, FastAPI, AWS, Docker, and REST APIs.<br>> Open Source Contributor at GirlScript Summer of Code, actively contributing to production-level projects and collaborating on backend and cloud-based systems.<br>> Passionate about backend engineering, distributed systems, DevOps, and building high-performance applications involving microservices, geospatial systems, AI integrations, and event-driven architectures. <br>
 
 
 ## 🌐 Socials:
