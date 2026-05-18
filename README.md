@@ -1,8 +1,17 @@
-# Hi 👋, I'm Manan Andraskar
+```txt
+██████╗ ███████╗████████╗██████╗  ██████╗      ██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗    ██╔══██╗██╔════╝██║   ██║
+██████╔╝█████╗     ██║   ██████╔╝██║   ██║    ██║  ██║█████╗  ██║   ██║
+██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝    ██████╔╝███████╗ ╚████╔╝
+╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝
+```
+
+# 👾 MANAN ANDRASKAR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;Backend+%26+Cloud+Enthusiast;React+%7C+Node.js+%7C+FastAPI+%7C+Docker;Building+Scalable+Systems+and+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=BOOTING+RETRO+DEVELOPER+PROFILE...;FULL+STACK+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;REACT+%7C+NODEJS+%7C+FASTAPI;DOCKER+%7C+AWS+%7C+FLUTTER;SYSTEM+STATUS+%3A+ONLINE" />
 
 </div>
 
@@ -24,7 +33,7 @@ Contributor at GirlScript Summer of Code 2026
 
 ---
 
-# 🧠 About Me
+# 🕹 PLAYER PROFILE
 
 * ⚡ Building full-stack applications with scalable backend architectures
 * 🚀 Working with React, Node.js, FastAPI, Docker, AWS, and Flutter
@@ -35,7 +44,7 @@ Contributor at GirlScript Summer of Code 2026
 
 ---
 
-# ⚔️ Tech Arsenal
+# 💾 TECH INVENTORY
 
 <div align="center">
 
@@ -45,7 +54,7 @@ Contributor at GirlScript Summer of Code 2026
 
 ---
 
-# 🏏 Developer Scorecard
+# 🎮 PLAYER STATS
 
 | Metric            | Stats                                    |
 | ----------------- | ---------------------------------------- |
@@ -57,37 +66,37 @@ Contributor at GirlScript Summer of Code 2026
 
 ---
 
-# 🏆 Match Highlights
+# 🖥 RETRO SYSTEM CONSOLE
 
-## 🔹 Smart HVAC Control System
+```bash
+C:\\MANAN_DEV> initializing_profile
 
-> Intelligent HVAC automation system using ESP32, ML-based optimization, occupancy detection, and weather APIs.
+[ OK ] Full Stack Development
+[ OK ] Backend Engineering
+[ OK ] Dockerized Infrastructure
+[ OK ] Cloud Deployments
+[ OK ] Open Source Contributions
+[ OK ] Embedded Systems
+[ OK ] REST API Development
+[ OK ] Performance Optimization
 
-**Tech Stack:** ESP32 • Machine Learning • APIs • Web Dashboard
+C:\\MANAN_DEV> active_stack
 
----
+> React
+> Node.js
+> FastAPI
+> Docker
+> AWS
+> Flutter
+> MongoDB
+> MySQL
 
-## 🔹 Bail Reckoner
+C:\\MANAN_DEV> status
 
-> Legal-tech platform streamlining bail-related workflows using Indian Kanoon API and e-Court integrations.
-
-**Tech Stack:** React • Node.js • REST APIs • Cloud Deployment
-
----
-
-## 🔹 Audio Authentication System
-
-> Authentication system using FFT and correlation analysis for secure voice-based verification.
-
-**Tech Stack:** MATLAB • Signal Processing • FFT • Correlation Analysis
-
----
-
-## 🔹 ORAN 5G Interface Verification
-
-> Standardized verification system for validating ORAN-based 5G network interfaces.
-
-**Tech Stack:** Networking • 5G • ORAN Architecture • Open Source
+SYSTEM STATUS : ONLINE
+OPEN SOURCE   : ACTIVE
+CURRENT MODE  : BUILDING
+```
 
 ---
 
@@ -127,7 +136,15 @@ Contributor at GirlScript Summer of Code 2026
 
 <div align="center">
 
-![Snake animation](https://github.com/manandev18/manandev18/blob/output/github-contribution-grid-snake-dark.svg)
+```bash
+Snake animation requires a GitHub Action workflow.
+
+Create:
+.github/workflows/snake.yml
+
+Then use:
+Platane/snk GitHub Action
+```
 
 </div>
 
