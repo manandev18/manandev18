@@ -162,11 +162,11 @@ Status: READY FOR DEPLOYMENT
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF99" />
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/manan-andraskar-66b16a256">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99" />
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:mananandraskar250304@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99" />
 </a>
 
