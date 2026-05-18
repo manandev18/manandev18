@@ -100,15 +100,14 @@ CURRENT MODE  : BUILDING
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 SYSTEM ANALYTICS
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manandev18&show_icons=true&theme=merko&hide_border=true&bg_color=000000" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manandev18&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manandev18&layout=compact&theme=merko&hide_border=true&bg_color=000000" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manandev18&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-
-</div>
 
 ---
 
@@ -132,21 +131,15 @@ CURRENT MODE  : BUILDING
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-```bash
-Snake animation requires a GitHub Action workflow.
-
-Create:
-.github/workflows/snake.yml
-
-Then use:
-Platane/snk GitHub Action
-```
+![Snake animation](https://github.com/manandev18/manandev18/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
 
 ---
 
